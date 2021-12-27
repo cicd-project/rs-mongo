@@ -45,7 +45,7 @@ Download the schema and load it.
 
 # cd /tmp
 # unzip mongodb.zip
-# cd mongodb-main
+# cd rs-mongodb-main
 # mongo < catalogue.js
 # mongo < users.js 
 
