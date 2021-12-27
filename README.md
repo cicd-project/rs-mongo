@@ -41,7 +41,7 @@ then restart the service
 Download the schema and load it.
 
 ```
-# curl -s -L -o /tmp/mongodb.zip "https://github.com/roboshop-devops-project/mongodb/archive/main.zip"
+# curl -s -L -o /tmp/mongodb.zip "https://github.com/cicd-project/rs-mongo/archive/main.zip"
 
 # cd /tmp
 # unzip mongodb.zip
